@@ -20,3 +20,4 @@ Use python DDos-Attack-Ultra.py [-s] [-p] [-t]
      →  -p : port default 80
      →  -t : turbo default 135
 Example: python DDos-Attack-Ultra.py -s172.34.32 -p80 -t135
+Modification:hammer 1.0 by:grisp84^_^
