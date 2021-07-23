@@ -7,8 +7,8 @@
            □□□□■□□□□  
 $ apt update
 $ apt upgrade
-$ apt install python
-$ apt install python2
+$ apt install python -y
+$ apt install python2 -y
 $ pkg install git
 $ git clone https://github.com/Grisp84/DDos-Attack.git
 $ cd DDos-Attack-Ultra
