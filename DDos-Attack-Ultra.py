@@ -80,7 +80,7 @@ def usage():
 	It is just for server testing script. Your ip is visible. \n
 	usage : python DDos-Attack-Ultra.py [-s] [-p] [-t]
 	-h : help
-	-s : server ip
+	-s : server ip            git@grisp84
 	-p : port default 80
 	-t : turbo default 135 \033[0m''')
 	sys.exit()
